@@ -52,7 +52,7 @@
                         app:layout_constraintEnd_toStartOf="@id/edittext"
                         app:layout_constraintStart_toStartOf="parent"
                         >
-                        
+
                     </TextView>
 
                     <EditText
